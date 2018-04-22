@@ -1,0 +1,27 @@
+{
+  "name": "lyndon-shell-config",
+  "description": "Shell config for Lyndon components",
+  "version": "1.0.1",
+  "author": ["Jeff Dickey","Block.Network"],
+  "bugs": "https://github.com/benchlab/lyndon-shell-config/issues",
+  "dependencies": {},
+  "devDependencies": {
+    "jsonlint": "^1.6.2"
+  },
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "files": [
+    "/.nycrc"
+  ],
+  "homepage": "https://github.com/benchlab/lyndon-shell-config",
+  "keywords": [
+    "lyndon"
+  ],
+  "license": "MIT",
+  "main": "src/index.js",
+  "repository": "benchlab/lyndon-shell-config",
+  "scripts": {
+    "test": "jsonlint .nycrc"
+  }
+}
