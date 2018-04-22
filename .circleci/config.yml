@@ -42,7 +42,7 @@ jobs:
 
 workflows:
   version: 2
-  "@benchlab/lyndon-shell-config":
+  "":
     jobs:
       - node-latest
       - node-8
