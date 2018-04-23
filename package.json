@@ -1,7 +1,7 @@
 {
   "name": "lyndon-shell-config",
   "description": "Shell config for Lyndon components",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "author": ["Jeff Dickey","Block.Network"],
   "bugs": "https://github.com/benchlab/lyndon-shell-config/issues",
   "dependencies": {},
